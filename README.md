@@ -2,7 +2,7 @@ AlmaImprover
 ============
 Improves the UI of almamather.zcu.cz to make it a little bit more usable.
 
-*The following text is written in the Czech language as it is very unlikely to be used by somebody who doesn't understand it.*
+*The following text is written in the Czech language as it is very unlikely to be used by somebody who doesn't speak it.*
 
 ## Co to umí?
   * Odstranit animaci na titulní straně, která je úplně k ničemu a i na výkonném počítači způsobuje výrazné zpomalení celého prohlížeče.
