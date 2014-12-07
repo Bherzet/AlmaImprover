@@ -174,7 +174,7 @@ function installGoToResultButton() {
 
 // ---------- for the saolin ----------
 /**
- * Reverses a order of Saolins so you don't have to go to the end of page to find
+ * Reverses an order of Saolins so you don't have to go to the end of page to find
  * the last ones.
  */
 function reverseSaolinsOrder() {
